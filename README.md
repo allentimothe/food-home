@@ -2,7 +2,7 @@
 
 #### Web App that will allow employees of restaurants or small businesses to clock in and out and document daily procedures and tasks.
 
-#### By Allen Timothe
+###  - By Allen Timothe
 
 ## Live Photos
 
@@ -13,7 +13,7 @@
 * PostgreSQL
 * Express
 * Materials UI
-* Heroku
+* Deployed using Heroku
 
 ## Live Link ‼️ 🚀 🔥 🎬
 ![Click Here]()
