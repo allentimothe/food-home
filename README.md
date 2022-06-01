@@ -21,6 +21,7 @@
 ## Wire Frames
 
 ![ERD](ERD.png)
+![Responsive NavBar](FoodHome-ResponsiveNav.png)
 ![Home Screen](HomeScreen.png)
 ![Live Home Screen](FoodHome-HomeScreen.png)
 ![Punch Screen](PunchScreen.png)
