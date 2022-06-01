@@ -22,7 +22,7 @@
 
 ![ERD](ERD.png)
 ![Home Screen](HomeScreen.png)
-![Live Home Screen](FoodHome-Punch.png)
+![Live Home Screen](FoodHome-HomeScreen.png)
 ![Punch Screen](PunchScreen.png)
 ![Live Punch Screen](FoodHome-Punch.png)
 ![Tasks Screen](TasksScreen.png)
